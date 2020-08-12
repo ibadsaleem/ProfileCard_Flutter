@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
               color: Colors.teal,
               ),
 
-              title: Text('+92 303 2189 395',
+              title: Text('+92 XXX XXXX XXX',
               style: TextStyle(
                 fontSize: 20.0,
                 fontFamily: 'Sans',
@@ -78,7 +78,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.teal,
                   ),
 
-                  title: Text('ibadsaleem@hotmail.com',
+                  title: Text('ibad@email.com',
                     style: TextStyle(
                       fontSize: 20.0,
                       fontFamily: 'Sans',
